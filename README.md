@@ -31,3 +31,6 @@ Dzięki temu można tagować obrazy, po kolejnym uruchomieniu workflow obraz jes
 
 1. Dodatkowy workflow jest w pliku : [zadanie2_dodatkowe.yml](.github/workflows/zadanie2_dodatkowe.yml)
 2. Wykonanie workflow znajduje się w zakładce Actions
+
+https://github.com/adriankruczynski?tab=packages
+
